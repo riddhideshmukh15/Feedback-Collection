@@ -94,4 +94,3 @@ Some features that can be added later:
 
 **Riddhi Deshmukh**
 
-This project was created as a beginner Python project to practice **lists, dictionaries, loops, conditions, and user input**.
